@@ -44,3 +44,5 @@ The strategy shows ability to capture some upside while avoiding large drawdowns
 Short-term directional prediction in cryptocurrency markets is extremely difficult. AUC values ~0.50–0.54 and Sharpe ratios ~0.6–1.0 are typical realistic out-of-sample results for daily models — even strong published academic/commercial attempts rarely exceed this consistently.
 
 ## Repository Structure
+
+https://www.CryptoDataDownload.com
